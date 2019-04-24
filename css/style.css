@@ -619,8 +619,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #subscribe .subscribe-btn:hover {
-  background: #03C4EB;
-  border: 2px solid #03C4EB;
+  background: goldenrod;
+  border: 2px solid goldenrod;
 }
 
 /* Portfolio Section
@@ -706,7 +706,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #testimonials .profile h4 {
   font-weight: 700;
-  color: #03C4EB;
+  color: goldenrod;
   margin-bottom: 5px;
 }
 
@@ -781,7 +781,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #team .member .social a:hover {
-  color: #03C4EB;
+  color: goldenrod;
 }
 
 #team .member .social i {
@@ -802,7 +802,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 #contact .info i {
   font-size: 32px;
-  color: #03C4EB;
+  color: goldenrod;
   float: left;
 }
 
@@ -812,8 +812,8 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form #sendmessage {
-  color: #03C4EB;
-  border: 1px solid #03C4EB;
+  color: goldenrod;
+  border: 1px solid goldenrod;
   display: none;
   text-align: center;
   padding: 15px;
@@ -849,7 +849,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
-  background: #03C4EB;
+  background: goldenrod;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -857,7 +857,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"]:hover {
-  background: #25d8fc;
+  background: Gold;
 }
 
 /*--------------------------------------------------------------
